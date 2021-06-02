@@ -2,6 +2,8 @@
 
 ## Prediction using Supervised ML
 
+#### Notebook (Mirror): https://nbviewer.jupyter.org/github/harshva89/SparkIntern_Task1/blob/master/Spark_Task1.ipynb
+
 ### Demo:
 
 
