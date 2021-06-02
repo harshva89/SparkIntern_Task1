@@ -2,7 +2,7 @@
 
 ## Prediction using Supervised ML
 
-#### Notebook (Mirror): https://nbviewer.jupyter.org/github/harshva89/SparkIntern_Task1/blob/master/Spark_Task1.ipynb
+#### Notebook (Mirror): <a href='https://nbviewer.jupyter.org/github/harshva89/SparkIntern_Task1/blob/master/Spark_Task1.ipynb'>Click here</a>
 
 ### Demo:
 
